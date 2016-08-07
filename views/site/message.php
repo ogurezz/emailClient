@@ -43,8 +43,7 @@ $this->params['breadcrumbs'][] =  [
             'style' => 'margin:5px',
         ])?>
         </div>
-        </div>
-
+       
     <?php ActiveForm::end(); ?>
 
 </div><!-- site-message -->

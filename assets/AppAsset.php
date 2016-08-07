@@ -21,8 +21,8 @@ class AppAsset extends AssetBundle
         'css/site.css',
     ];
     public $js = [
-        'js\scrolltotop.js',
-        'js\checkall.js'
+        'js/scrolltotop.js',
+        'js/checkall.js'
     ];
     public $depends = [
         'yii\web\YiiAsset',
